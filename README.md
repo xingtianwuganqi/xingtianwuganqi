@@ -2,7 +2,7 @@
 - 👀 I’m interested in Swift、Python
 - 🌱 I’m currently learning Django
 - 📫 How to reach me？ email：rxswift@126.com
-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xingtianwuganqi)](https://github.com/xingtianwuganqi/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xingtianwuganqi)](https://github.com/xingtianwuganqi/github-readme-stats)
 
 
 <!---
