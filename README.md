@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @xingtianwuganqi
 - 👀 I’m interested in Swift
-- 🌱 I’m currently learning Gin/Gorm
+<!--- - 🌱 I’m currently learning Gin/Gorm -->
 - 📫 How to reach me？ email：rxswift@126.com
 
 <!---
