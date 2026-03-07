@@ -8,9 +8,8 @@
 
 - 👋 Hi, I’m @xingtianwuganqi
 - 👀 I’m interested in Swift
-<!--- - 🌱 I’m currently learning Gin/Gorm -->
 - 📫 How to reach me？ email：rxswift@126.com
-
+<!--- - 🌱 I’m currently learning Gin/Gorm -->
 <!---
 Go、Python、Kotlin
 xingtianwuganqi/xingtianwuganqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
