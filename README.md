@@ -9,5 +9,5 @@
 - 👋 Hi, I’m @xingtianwuganqi
 - 👀 I’m interested in Swift
 - 📫 How to reach me？ email：rxswift@126.com
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingtianwuganqi)](https://github.com/anuraghazra/github-readme-stats)
 
